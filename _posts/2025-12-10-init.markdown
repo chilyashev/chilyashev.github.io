@@ -1,0 +1,9 @@
+---
+layout: post
+title: "BEGIN"
+date: 2025-12-10 18:00:00 +0200
+categories: [ jekyll, update ]
+tags: [ jekyll ]
+---
+
+A published draft which will be finished at some point.
